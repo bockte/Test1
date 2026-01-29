@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        // This ones different
-        System.out.println("Hello People");
+        // This is the change I am making
+        System.out.println("Goodbye GitHub");
     }
 }
